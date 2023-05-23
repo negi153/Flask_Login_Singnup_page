@@ -4,13 +4,17 @@ This is a small Login & Sign up page created using below technologies-
 2. HTML
 3. SQlite3
 
-## Required modueles
+## Preview
+https://github.com/negi153/Flask_Login_Singnup_page/assets/27079205/15c6120a-1b8f-4368-9c98-d06f79eb5b7b
+
+
+## Requirements
 pip install flask
 
 ## Technical Details
 - Database - `database/user_db.db`
 - Table - `user_info`
-- Table columns
+- Below is the schema of table which contains user information.
     | Column Name | Datatype | Size | Primary Key | Not Null |
     | ----------- | -------- | ---- | ----------- | -------- |
     |name|char|1000|||
